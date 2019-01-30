@@ -1,0 +1,23 @@
+Journal,selfcites,NonLocalCount,Totalcites,NLIQ,OCQ,HINDEX,IC,Title
+Nature Geoscience.json,2225,40,9465,0.995773904,0.764923402,111,42.51,Earth and Planetary 
+Earth and Planetary Science Letters.json,696,20,2816,0.992897727,0.752840909,177,53.89333,Earth and Plantery
+Journal of Advances in Modeling Earth Systems.json,786,30,2896,0.989640884,0.72859116,18,30.8,Earth and Planetary
+Earth System Science Data.json,986,38,3350,0.988656716,0.705671642,12,37.753333,Earth and Plantery
+Saudi Journal of Biological Sciences.txt,40,14,578,0.975778547,0.930795848,14,24.826667,agri and biological
+Journal of Agricultural and Environmental Ethics.txt,74,15,463,0.967602592,0.840172786,32,12.49333,agri and biological
+Brazilian Journal of Biology.txt,28,5,106,0.952830189,0.735849057,35,5.4633333,agri and biological
+Nongye Jixie Xuebao(Transactions of the Chinese Society of Agricultural Machinery).txt,8,3,42,0.928571429,0.80952381,25,5.506667,agri and biological
+Open Life Sciences.txt,56,9,207,0.956521739,0.729468599,21,18.623333,agri and biological
+Journal of Biological Systems.txt,12,3,38,0.921052632,0.684210526,22,20.976667,agri and biological
+Biology Direct.txt,122,12,911,0.986827662,0.866081229,45,23.16,agri and biological
+Bragantia.txt,18,2,34,0.941176471,0.470588235,20,5.046667,agri and biological
+Plant Molecular Biology.json,234,27,2172,0.987569061,0.892265193,137,30.036667,agronomy and crop
+Theoretical and Applied Genetics.json,492,24,2496,0.990384615,0.802884615,144,41.586667,agronomy and crop
+Algal Research.json,346,40,2506,0.984038308,0.861931365,20,23.58,agronomy and crop
+Radiocarbon.json,1046,12,3042,0.996055227,0.656147272,65,44.113333,earth and plantery
+Global Change Biology Bioenergy.json,447,39,3909,0.990023024,0.885648504,167,51.74333,environmental
+Agricultural and Forest Meteorology.json,834,21,3150,0.993333333,0.735238095,116,46.29333,agronomy and crop
+Molecular Plant Pathology.json,1065,39,4932,0.992092457,0.78406326,72,34.37333,agronomy and crop
+Molecular Plant-Microbe Interactions.json,396,21,2472,0.991504854,0.839805825,118,49.27333,environmental
+Earth System Dynamics.json,282,30,1288,0.976708075,0.781055901,13,50.87,Earth and Plantery
+Geoscientific Model Development.json,964,18,2504,0.992811502,0.615015974,32,47.64667,Earth and Plantery

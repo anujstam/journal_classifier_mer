@@ -1,0 +1,14 @@
+Results for 10000 tries:
+
+Overall accuracy-
+Average accuracy:  0.9098250000000091  Highest Accuracy:  1.0  Lowest Accuracy:  0.5833333333333334
+
+Classwise accuracy-
+Average accuracy for national class:  0.9291800000000154 Average accuracy for International class:  0.8960000000000233
+
+Average risk:  0.0033153820508453487  Max Risk : 0.1393388191217914  Min Risk : 0.0
+
+10821 missclassifications over 120000 classifications, out of which 3541 were false positive and 7280 were misses
+
+As per Bhattacharya bounds, Minimum error upper bound: 0.003450302984847903 Maximum error upper bound: 0.06004720974784512 Average error upper bound: 0.030203937842778094
+As per Chernoff bounds at beta = 1/3 , Minimum error upper bound: 0.004304341118194593 Maximum error upper bound: 0.07865085292936676 Average error upper bound: 0.04013851396694778
